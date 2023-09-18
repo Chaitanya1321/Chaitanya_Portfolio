@@ -170,7 +170,6 @@ img{
   background-color: var(--first-color);
 }
 .nav__logo{
-  font-size: 40px;
   color: var(--second-color);
 }
 .nav__toggle{
